@@ -2,7 +2,7 @@
 
 💻 **Estudante de Ciência da Computação** | 📊 **Focada em Dados** | 🚀 **Futura Desenvolvedora Full Stack**
 
-Sou apaixonada por tecnologia e inovação. Atualmente estou cursando **Ciência da Computação na UNIP** com bolsa 100% pelo ProUni e estou no **3º semestre**. Meu foco atual está em **dados**, mas no futuro desejo me tornar uma **desenvolvedora Full Stack**.
+Sou apaixonado por tecnologia e inovação. Atualmente, estou cursando **Ciência da Computação** na UNIP com bolsa 100% pelo ProUni, no **3º semestre**. Meu foco atual está totalmente voltado para a **área de dados**, onde estou aprimorando minhas habilidades em **análise, manipulação e estruturação de informações**, com ênfase em **SQL**, **Python** e ferramentas relacionadas.
 
 ---
 
