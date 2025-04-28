@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Luana Ramos dos Santos 👋
 
-💻 **Estudante de Ciência da Computação** | 📊 **Focada em Dados** | 🚀 **Futura Desenvolvedora Full Stack**
+💻 **Estudante de Ciência da Computação** | 📊 **Focada em Dados** | 
 
 Sou apaixonado por tecnologia e inovação. Atualmente, estou cursando **Ciência da Computação** na UNIP com bolsa 100% pelo ProUni, no **3º semestre**. Meu foco atual está totalmente voltado para a **área de dados**, onde estou aprimorando minhas habilidades em **análise, manipulação e estruturação de informações**, com ênfase em **SQL**, **Python** e ferramentas relacionadas.
 
