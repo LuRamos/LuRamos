@@ -2,7 +2,8 @@
 
 💻 **Estudante de Ciência da Computação** | 📊 **Focada em Dados** | 
 
-Sou apaixonado por tecnologia e inovação. Atualmente, estou cursando **Ciência da Computação** na UNIP com bolsa 100% pelo ProUni, no **3º semestre**. Meu foco atual está totalmente voltado para a **área de dados**, onde estou aprimorando minhas habilidades em **análise, manipulação e estruturação de informações**, com ênfase em **SQL**, **Python** e ferramentas relacionadas.
+Estudante de Ciência da Computação na UNIP (ProUni 100%), 5º semestre, e estagiária no Banco Safra.
+Atualmente estou aprimorando meus conhecimentos em Python e SQL, com interesse em evoluir em programação pura utilizando Python e em aprofundar meus estudos em Inteligência Artificial.
 
 ---
 
@@ -24,4 +25,4 @@ Sou apaixonado por tecnologia e inovação. Atualmente, estou cursando **Ciênci
 ### 📫 Contato
 🔗 [LinkedIn](https://www.linkedin.com/in/luanaramosdsantos)  
 
-📌 *"Buscando sempre aprender e evoluir na área de tecnologia!"* 🚀
+📌 *"Buscando sempre aprender e evoluir na área de tecnologia!"* 
