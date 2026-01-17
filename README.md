@@ -15,13 +15,6 @@ Atualmente estou aprimorando meus conhecimentos em Python e SQL, com interesse e
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuRamos&show_icons=true&theme=dracula) 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuRamos&layout=compact&theme=dracula)
-
-
----
-
 ### 📫 Contato
 🔗 [LinkedIn](https://www.linkedin.com/in/luanaramosdsantos)  
 
